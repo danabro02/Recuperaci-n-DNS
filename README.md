@@ -1,2 +1,2 @@
 # Recuperaci-n-DNS
-recuperación dns
+Todo lo realizado esta en imagines y los archivos modificados estan expuestos
